@@ -12,7 +12,7 @@ compone = "^0.4.0"
 click = "^8.1.7"
 starlette = "^0.37.2"
 hypercorn = "^0.17.0"
-watchfiles = "^0.21.0"
+watchfiles = "^1.0.0"
 
 [tool.poetry.plugins."compone.cli"]
 stories = "compone_stories.cli:stories"
